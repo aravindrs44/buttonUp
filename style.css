@@ -1,0 +1,38 @@
+
+#a{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.search  {
+    color:aqua;
+    background-color: whitesmoke;
+    width: 120px;
+    border-radius: 10px;
+    border: solid aqua ;
+    display: block;
+    margin: 25px 0px;
+    padding: 0.625em 1.5625em;
+    font-size: medium;
+}
+
+.plus   {
+    color:whitesmoke;
+    background-color: aqua;
+    border-radius: 50%; width: 50px; height: 50px;
+    border-style: hidden;
+    display: block;
+    margin: 25px;
+    text-align: center;
+    font-size: 175%;
+
+}
+
+.createaccount  {
+    color: whitesmoke;
+    background-color: blue;
+    border: solid black 3px;
+    padding: 5px 20px;
+    box-shadow: 5px 5px 5px black;
+}
